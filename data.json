@@ -37,21 +37,21 @@
   "color_highlight_text": null,
   "color_main_btn_text": null,
   "logo": {
-    "url": "http://localhost:4000/uploads/eabbea106f4d95a0a646c7036b36f689.png"
+    "url": "/uploads/eabbea106f4d95a0a646c7036b36f689.png"
   },
   "popup_logo": {
-    "url": "http://localhost:4000/uploads/9b8a2bd28de73edd1cd550377666ab82.png"
+    "url": "/uploads/9b8a2bd28de73edd1cd550377666ab82.png"
   },
   "main_background_img": {
-    "url": "http://localhost:4000/uploads/41605f78541bcfec442a684651a7b3f3.png"
+    "url": "/uploads/41605f78541bcfec442a684651a7b3f3.png"
   },
   "header_menu": null,
   "footer_menu": null,
   "Slots": null,
   "Bonuses": null,
   "FAQ": null,
-  "_generated_at": "2026-04-29T12:55:00.369Z",
+  "_generated_at": "2026-04-29T13:01:42.922Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-29T12:55:00.977Z",
-  "_deploy_trigger": "q9bvqp"
+  "_last_deploy": "2026-04-29T13:01:43.594Z",
+  "_deploy_trigger": "s56p4a"
 }
